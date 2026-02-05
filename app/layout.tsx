@@ -1,3 +1,4 @@
+import React from "react";
 export const metadata = {
   title: "CookieKraft Status",
   description: "Live server status + recent activity"
